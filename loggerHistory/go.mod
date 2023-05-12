@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	github.com/fsouza/go-dockerclient v1.7.0 // indirect
-	github.com/golang/protobuf v1.4.3
+	github.com/golang/protobuf v1.4.3 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.2 // indirect
 	github.com/hyperledger/fabric v1.4.10
 	github.com/hyperledger/fabric-amcl v0.0.0-20200424173818-327c9e2cf77a // indirect
