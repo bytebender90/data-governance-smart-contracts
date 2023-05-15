@@ -1,0 +1,1 @@
+{"index":{"fields":["docType","usernameOfProvider","orgOfProvider","datasetName"]},"ddoc":"indexMetadataByProviderAndDatasetNameDoc", "name":"indexMetadataByProviderAndDatasetName","type":"json"}
